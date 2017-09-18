@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{789A746A-F6F0-41A4-9DF0-EBFF2808BD45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ReBornWarRock_PServer</RootNamespace>
+    <AssemblyName>ReBornWarRock PServer</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ReBornWarRock_PServer.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>asdf.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility.Data" />
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.9.8\lib\net45\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RichTextBoxFind">
+      <HintPath>..\..\..\..\..\..\RichTextBoxFind.dll</HintPath>
+    </Reference>
+    <Reference Include="SearchableControls">
+      <HintPath>..\..\..\..\..\..\SearchableControls.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConfigServer.cs" />
+    <Compile Include="DataBase.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10.Designer.cs">
+      <DependentUpon>Form10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11.Designer.cs">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form12.Designer.cs">
+      <DependentUpon>Form12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.cs">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.cs">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCalling.cs" />
+    <Compile Include="GameServer\BingoWin.cs" />
+    <Compile Include="GameServer\GeoIP\Country.cs" />
+    <Compile Include="GameServer\GeoIP\DatabaseInfo.cs" />
+    <Compile Include="GameServer\GeoIP\Location.cs" />
+    <Compile Include="GameServer\GeoIP\LookupService.cs" />
+    <Compile Include="GameServer\GeoIP\Region.cs" />
+    <Compile Include="GameServer\GeoIP\RegionName.cs" />
+    <Compile Include="GameServer\Managers\BanManager.cs" />
+    <Compile Include="GameServer\Managers\ClanManager.cs" />
+    <Compile Include="GameServer\Managers\EventManager.cs" />
+    <Compile Include="GameServer\Managers\Item.cs" />
+    <Compile Include="GameServer\Managers\ItemManager.cs" />
+    <Compile Include="GameServer\Managers\LevelManager.cs" />
+    <Compile Include="GameServer\Managers\MapDataManager.cs" />
+    <Compile Include="GameServer\Managers\NoticeManager.cs" />
+    <Compile Include="GameServer\Managers\PacketManager.cs" />
+    <Compile Include="GameServer\Managers\RoomManager.cs" />
+    <Compile Include="GameServer\Managers\RoomVehicles.cs" />
+    <Compile Include="GameServer\Managers\UserManager.cs" />
+    <Compile Include="GameServer\Managers\VehicleManager.cs" />
+    <Compile Include="GameServer\Managers\WeaponManager.cs" />
+    <Compile Include="GameServer\Managers\WordManager.cs" />
+    <Compile Include="GameServer\Managers\ZombieListManager.cs" />
+    <Compile Include="GameServer\Managers\ZombieManager.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_CARE_PACKAGE.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_CARE_PACKAGE_WIN.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_CHANNEL_SWITCH.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_CHARACTER_INFO.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_CHAT.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_CLAN.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_CLAN_RANKING.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_COSTUME_BUY.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_COSTUME_EQUIPMENT.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_COUPON_ACTIVE.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_COUPON_BUY.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_COUPON_EVENT.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_CREDITS.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_DELETE_COSTUME.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_DELETE_WEAPON.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_EQUIPMENT.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_ESCAPE.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_GUN_SM%3bITH.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_ITEMSHOP.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_LOGIN_EVENT.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_LOGOUT.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_LUCKY_SHOT.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_LUCKY_SHOT_WIN.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_MESSENGER.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_MULTIPLAYER_ZOMBIE.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_OUTBOX.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_PING.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_POWCAMP.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_QUICK_JOIN.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_RADIO_TIME.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_ROOM_BOMB.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_ROOM_CREATION.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_ROOM_DATA.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_ROOM_INVITE.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_ROOM_JOIN.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_ROOM_KICK.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_ROOM_LEAVE.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_ROOM_LIST.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_ROOM_UPDATE.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_SCORE_BOARD.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_SHOP_COUPON.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_SKILL_POINT.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_SPECTATE_ROOM.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_TRINITYGUARD_CHECK.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_USER_LIST.cs" />
+    <Compile Include="GameServer\Networking\Handlers\HANDLE_WELCOME_PACKET.cs" />
+    <Compile Include="GameServer\Networking\Handlers\SHANDLE_CONNECT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ALPHABET_EVENT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_AUTOSTART.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_BOMB.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CARE_PACKAGE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CARE_PACKAGE_WIN.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CHANGE_CHANNEL.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CHANGE_NICKNAME.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CHARACTER_INFO.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CHAT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CHAT_COLOR.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CHAT_EVENT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CLAN.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CLAN_CHANGE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CLAN_PENDING_USERS.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CLAN_WAR.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CLIENT_PACKET.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CONNECT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_COSTUME_BUY.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_COSTUME_EQUIPMENT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_COUPON.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_COUPON_BUY.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_COUPON_EVENT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CRASH_USER.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CREATE_ROOM.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CREDITS.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_CUSTOM.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_DELETE_COSTUME.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_DELETE_WEAPON.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_DROP_AI.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_END_GAME.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_END_GAME_AI.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_EQUIPMENT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ESCAPE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_EVENT_MESSAGE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_EXPIRE_ITEM.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_GUN_SMITH.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_HAMRADIO.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_INIT_PLAYER.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ITEMSHOP.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_JOIN_ROOM.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_KILLDEATH_USE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_KILL_EVENT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_LEVEL_UP.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_LOGIN.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_LOGIN_EVENT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_LOGIN_EVENT_MESSEGE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_LOGOUT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_LUCKY_SHOT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_MAP_DATA.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_MESSAGE_BOX.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_MULTIPLAYER_ZOMBIE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_OUTBOX_LIST.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_OUTBOX_SEND.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_OUTBOX_USE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_PARTY_PROGRAM_DETECTED.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_PING.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_RADIO_TIME.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_RANDOM_BOX.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ROOMLIST_UPDATE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ROOM_DATA.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ROOM_INVITE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ROOM_KICK.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ROOM_LEAVE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ROOM_LIST.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ROOM_TICK.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ROOM_UDP.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ROOM_UDP_SPECTATE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ROOM_UPDATE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_SCORE_BOARD.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_SCORE_BOARD_AI.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_SHOP_COUPON.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_SIGN_UP.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_SKILL_POINT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_SKILL_POINT_KILL.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_SPAWN_ZOMBIE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_SPECTATE_ROOM.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_SUICIDE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_TIMEATTACK_ALL.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_TO_CLIENT.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_UNKNOW.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_UPDATE_ROOM.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_USED_NICKNAME.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_USER_LIST.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_USE_CREDITS.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_VEHICLE_EXPLODE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_VEHICLE_RESPAWN.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ZOMBIE_EXPLODE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ZOMBIE_STAGE.cs" />
+    <Compile Include="GameServer\Networking\Packets\PACKET_ZOMBIE_WAVE.cs" />
+    <Compile Include="GameServer\Networking\Packets\SPACKET_BAN_PLAYER.cs" />
+    <Compile Include="GameServer\Networking\Packets\SPACKET_LOGIN.cs" />
+    <Compile Include="GameServer\Networking\Packets\SPACKET_UPDATE_COUNT.cs" />
+    <Compile Include="GameServer\Networking\Packets\SP_RoomHackMission.cs" />
+    <Compile Include="GameServer\NetworkSocket.cs" />
+    <Compile Include="GameServer\Packet.cs" />
+    <Compile Include="GameServer\PacketHandler.cs" />
+    <Compile Include="GameServer\ServerClient.cs" />
+    <Compile Include="GameServer\UDP_Socket.cs" />
+    <Compile Include="GameServer\Networking\Virtual Objects\Room\Vehicles.cs" />
+    <Compile Include="GameServer\Networking\Virtual Objects\Room\VehicleSeat.cs" />
+    <Compile Include="GameServer\Networking\Virtual Objects\Room\virtualRoom.cs" />
+    <Compile Include="GameServer\Networking\Virtual Objects\Room\virtualZombie.cs" />
+    <Compile Include="GameServer\Networking\Virtual Objects\User\Inventory\Classes.cs" />
+    <Compile Include="GameServer\Networking\Virtual Objects\User\Inventory\CostumeItem.cs" />
+    <Compile Include="GameServer\Networking\Virtual Objects\User\Inventory\InventoryItem.cs" />
+    <Compile Include="GameServer\Networking\Virtual Objects\User\Inventory\OutBoxItem.cs" />
+    <Compile Include="GameServer\Networking\Virtual Objects\User\Inventory\Slot.cs" />
+    <Compile Include="GameServer\Networking\Virtual Objects\User\virtualUser.cs" />
+    <Compile Include="GameServer\Networking\Virtual Objects\virtualProtection.cs" />
+    <Compile Include="IO.cs" />
+    <Compile Include="Log.cs" />
+    <Compile Include="LoginServer\Connection\NetworkSocket.cs" />
+    <Compile Include="LoginServer\Connection\ServerSocket.cs" />
+    <Compile Include="LoginServer\Connection\WebSocket.cs" />
+    <Compile Include="LoginServer\Docs\BanManager.cs" />
+    <Compile Include="LoginServer\Docs\PacketManager.cs" />
+    <Compile Include="LoginServer\Docs\ServerManager.cs" />
+    <Compile Include="LoginServer\Docs\Statment.cs" />
+    <Compile Include="LoginServer\MySQL.cs" />
+    <Compile Include="LoginServer\Packets\List_Handle\HANDLE_LAUNCHER_INIT.cs" />
+    <Compile Include="LoginServer\Packets\List_Handle\HANDLE_LOGIN.cs" />
+    <Compile Include="LoginServer\Packets\List_Handle\HANDLE_NEW_NICKNAME.cs" />
+    <Compile Include="LoginServer\Packets\List_Handle\HANDLE_UPDATE_CHECK.cs" />
+    <Compile Include="LoginServer\Packets\List_Handle\SHANDLE_AUTH_SERVER.cs" />
+    <Compile Include="LoginServer\Packets\List_Handle\SHANDLE_BAN_PLAYER.cs" />
+    <Compile Include="LoginServer\Packets\List_Handle\SHANDLE_UPDATE_COUNT.cs" />
+    <Compile Include="LoginServer\Packets\List_Packets\PACKET_CONNECT.cs" />
+    <Compile Include="LoginServer\Packets\List_Packets\PACKET_LAUNCHER_INIT.cs" />
+    <Compile Include="LoginServer\Packets\List_Packets\PACKET_SERVER_LIST.cs" />
+    <Compile Include="LoginServer\Packets\List_Packets\PACKET_UPDATE_CHECK.cs" />
+    <Compile Include="LoginServer\Packets\List_Packets\SPACKET_AUTH_SERVER.cs" />
+    <Compile Include="LoginServer\Packets\List_Packets\SPACKET_BAN_PLAYER.cs" />
+    <Compile Include="LoginServer\Packets\List_Packets\SPACKET_CONNECT.cs" />
+    <Compile Include="LoginServer\Packets\List_Packets\SPACKET_UPDATE_COUNT.cs" />
+    <Compile Include="LoginServer\Packets\Packet.cs" />
+    <Compile Include="LoginServer\Packets\PacketHandler.cs" />
+    <Compile Include="LoginServer\Protection.cs" />
+    <Compile Include="LoginServer\Virtual\Server\Server.cs" />
+    <Compile Include="LoginServer\Virtual\User\User.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Structure.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10.resx">
+      <DependentUpon>Form10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11.resx">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form12.resx">
+      <DependentUpon>Form12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="asdf.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

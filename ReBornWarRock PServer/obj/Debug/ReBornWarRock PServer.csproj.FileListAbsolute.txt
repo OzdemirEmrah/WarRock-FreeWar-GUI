@@ -1,0 +1,67 @@
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.exe.config
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.exe
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.pdb
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\MySql.Data.dll
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.csprojResolveAssemblyReference.cache
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form1.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form2.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Properties.Resources.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.csproj.GenerateResource.Cache
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.exe
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.pdb
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form3.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form4.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form5.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form6.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form7.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form8.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form9.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form10.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form11.resources
+C:\Users\Shedow_PC\Desktop\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form12.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.exe.config
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.exe
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.pdb
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.exe
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.pdb
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form1.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form10.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form12.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form2.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form3.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form4.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form5.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form6.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form7.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form8.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form9.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Properties.Resources.resources
+C:\Users\User\Desktop\PEN\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.exe.config
+C:\Users\User\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.exe
+C:\Users\User\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.pdb
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.exe.config
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.exe
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.pdb
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.exe
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.pdb
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\MySql.Data.dll
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\RichTextBoxFind.dll
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\SearchableControls.dll
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.csprojResolveAssemblyReference.cache
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form1.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form10.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form11.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form12.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form2.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form3.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form4.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form5.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form6.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form7.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form8.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form9.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Properties.Resources.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.csproj.GenerateResource.Cache

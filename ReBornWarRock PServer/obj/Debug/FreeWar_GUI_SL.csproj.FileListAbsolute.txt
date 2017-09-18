@@ -1,0 +1,46 @@
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.exe.config
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.exe
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.pdb
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.exe
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.pdb
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\MySql.Data.dll
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\RichTextBoxFind.dll
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\bin\Debug\SearchableControls.dll
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\FreeWar_GUI_SL.csprojResolveAssemblyReference.cache
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form1.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form10.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form11.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form12.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form2.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form3.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form4.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form5.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form6.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form7.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form8.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form9.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Properties.Resources.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\ReBornWarRock PServer\ReBornWarRock PServer\obj\Debug\FreeWar_GUI_SL.csproj.GenerateResource.Cache
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.exe.config
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.exe
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\bin\Debug\ReBornWarRock PServer.pdb
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\bin\Debug\MySql.Data.dll
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\bin\Debug\RichTextBoxFind.dll
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\bin\Debug\SearchableControls.dll
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\FreeWar_GUI_SL.csprojResolveAssemblyReference.cache
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form1.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form10.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form11.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form12.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form2.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form3.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form4.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form5.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form6.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form7.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form8.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Form9.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock_PServer.Properties.Resources.resources
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\FreeWar_GUI_SL.csproj.GenerateResource.Cache
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.exe
+C:\Users\mikel\Desktop\asd\Desktop\File\Projects\FreeWar PServer\ReBornWarRock PServer\obj\Debug\ReBornWarRock PServer.pdb
